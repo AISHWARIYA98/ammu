@@ -6,7 +6,7 @@ scanf("%d",&N);
 while(N!=0)
 {
 N=N/10;
-count++
+count++;
 }
 printf("%d",count);
 return 0;
