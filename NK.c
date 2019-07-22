@@ -12,6 +12,7 @@ for(int i=0;i<K;i++)
 {
 sum=sum+A[i];
 }
+printf("%d",sum);
 return 0;
 }
 
