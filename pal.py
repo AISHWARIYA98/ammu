@@ -4,7 +4,7 @@ s=0
 c=x
 while x!=0 :
     t=x%10
-    s=(s*10)+x
+    s=(s*10)+t
     x=x//10
 if c==s :
    print("yes")
